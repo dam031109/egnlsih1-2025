@@ -1,0 +1,33 @@
+ID,Condition,Sentence,Surprisal
+1,Normal,The boys eat the cake.,5.542757511138916
+1,Error,The boys eats the cake.,6.581474304199219
+2,Normal,This story is an interesting part in the history of the globalization of food.,3.7108395099639893
+2,Error,This story are an interesting part in the history of the globalization of food.,4.420146942138672
+3,Normal,"Kimchi, which contains a lot of spicy chili.",4.269070625305176
+3,Error,"Kimchi, that contains a lot of spicy chili.",4.627956867218018
+4,Normal,You need to understand that stress is not a disease.,3.175044536590576
+4,Error,You need to understand that stress are not a disease.,3.936589479446411
+5,Normal,Potatoes were at first less favored than sweet potatoes by Europeans.,4.730297088623047
+5,Error,Potatoes was at first less favored than sweet potatoes by Europeans.,5.029441833496094
+6,Normal,"School is important, but it is not everything.",2.9171648025512695
+6,Error,"School are important, but it is not everything.",3.5592851638793945
+7,Normal,Those plants were later called chilies or chili peppers.,4.7717485427856445
+7,Error,Those plants was later called chilies or chili peppers.,5.370251655578613
+8,Normal,The speed of the chili pepper's spread was exceptional.,4.531292915344238
+8,Error,The speed of the chili pepper's spread were exceptional.,4.927116870880127
+9,Normal,A little stress is essential to push you to get things done.,4.158876895904541
+9,Error,A little stress are essential to push you to get things done.,4.675754070281982
+10,Normal,It is a normal reaction that almost everyone experiences.,3.8154706954956055
+10,Error,It is a normal reaction who almost everyone experiences.,5.358845233917236
+11,Normal,We have good news and bad news for you.,2.1869192123413086
+11,Error,We have good news and bad news for yous.,3.148514986038208
+12,Normal,"Although the word 'stress' brings up images of tired adults, many teens also suffer from a high level of stress, often without even knowing that they do.",3.475367546081543
+12,Error,"Although the word 'stress' brings up images of tired adults, many teens also suffer from a high level of stress, often without even knowing that they did.",3.561941146850586
+13,Normal,"Imported from South India and nearby islands, black pepper was an expensive spice.",5.150331497192383
+13,Error,"Importing from South India and nearby islands, black pepper was an expensive spice.",5.165626049041748
+14,Normal,He found other plants that he believed to be another type of pepper.,3.97635555267334
+14,Error,He found other plant that he believed to be another type of pepper.,4.368347644805908
+15,Normal,"Because tomatoes are high in acidity, when placed on such plates, the fruit would release the lead.",4.235352993011475
+15,Error,"Because tomatoes are high in acidity, when placing on such plates, the fruit would release the lead.",4.569015026092529
+16,Normal,"Without stress, you would not be able to gather enough energy to face difficulties.",3.6950581073760986
+16,Error,"If it had not been for stress, you would not be able to gather enough energy to face difficulties.",3.0812582969665527
